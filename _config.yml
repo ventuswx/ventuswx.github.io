@@ -104,5 +104,5 @@ markdown:
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repository: https://github.com/ventus.github.io #github page 仓库
-  branch: gh-pages
+  repository: git@github.com:ventuswx/ventuswx.github.io.git#github page 仓库
+  branch: master
